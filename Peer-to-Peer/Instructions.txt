@@ -1,0 +1,22 @@
+PEER TO PEER CHAT APPLICATION
+(system requirements: java se, jre and jdk, LAN Connection)
+INSTRUCTIONS:
+1. Unzip the p2p.zip file
+2. Go to mc2 Folder -> Click src Folder-> Go to mc2 Folder -> Run Main.java 
+(Peer to Peer Chat window gets opened)
+3. For a first time user, Enter a nickname for the user
+4. Click on "Update List" button to check for existing channel
+5. If no channel shows up, then a new channel has to be created
+6. Enter a channel name and a key value (this key values acts as the authentication factor)
+7. Click "OK" to enter the chat room
+8. For a second time user, Enter a nickname 
+9. Click on "Update List" button to check for existing channel
+10. Click on any channel that showed up in the column.
+11. Enter its corresponding "key value".
+12. Click "OK" to join the channel.
+13. Chat room gets opened and "list of users existing in the channel will be displayed".
+14. Enter any text to continue conversation with the users in the chat room.
+15. To enable a private conversation with a particular user, select the user's name and right click.
+16. Click on "private window".
+17. Private chat window will get opened. Continue chatting.
+18. To end the chat, "Close the chat window". 

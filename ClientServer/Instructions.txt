@@ -1,0 +1,24 @@
+MY CHAT ROOM APPLICATION
+(system requirements: java se jre and jdk)
+INSTRUCTIONS:
+1. Unzip the chatapp.zip file
+2. Go to Chatapp Folder -> Click Server Folder-> Click dist Folder-> Double click Server.jar file [ To make the server running]
+3. Create the Chatroom with entering the port ID (for example: 1300 <only integer value>)in the server window.
+4. Click on "create" button.
+4. Go to Chatapp Folder -> Click Client Folder-> Click dist Folder-> Double click Client.jar file [ To  make the client running]
+5. Enter the same port ID in the client window .
+6. Click on "Join" button.
+7. Enter a username and password.
+8. For a first time user, Click on the signup button for the data to get stored in the database.
+9. You will be logged in to the chat room.
+10. For a second time user, Click on the login button to authenticate the user and will be logged into the chat room.
+11. After logging in, In the chat room - click on "select file" button corresponding to 'save history' label.
+12. File browse window will be opened -> choose the chatapp folder and select the History.xml file.
+13. Type some message in the message text box and click "send" button. (Make some conversation)
+14. Click on the "Show" button corresponding to 'save history' label.
+15. History window will be opened n which the history of the conversation including date, time, message, sender username and receiver username will be displayed.
+16. Close the History window.
+17. Click on "join another chat" button to join another chat room.
+18. Click "logout" button or close the chat window to log out of the application.
+
+
